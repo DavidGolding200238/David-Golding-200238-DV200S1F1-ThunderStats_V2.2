@@ -111,13 +111,13 @@ The application will open at [http://localhost:3000](http://localhost:3000).
 
 ![Speed Chart](<Screenshots/Speed Chart.png>)
 
-![Mass Chart](<Screenshots/Mass Chart.png>)
+![Mass Chart](<Screenshots/Mass chart.png>)
 
 ![Cost Chart](<Screenshots/Cost chart.png>)
 
-![Radar Chart](<Screenshots/Radar Chart.png>)
+![Radar Chart](<Screenshots/Radar chart.png>)
 
-![Time Line Battle Rating](<Screenshots/Time line Graph.png>)
+![Time Line Battle Rating](<Screenshots/Time Line Graph.png>)
 
 ![Time Line repair costs](<Screenshots/Timeline Overview.png>)
 
