@@ -78,12 +78,12 @@ ThunderStats is a React-based data visualization web application that leverages 
 
 ### Clone the repository:
 ```sh
-git clone <https://github.com/DavidGolding200238/David-Golding-200238-DV200S1F1-ThunderStats.git>
+git clone <https://github.com/DavidGolding200238/David-Golding-200238-DV200S1F1-ThunderStats_V2.2.git>
 ```
 
 ### Move into the project folder:
 ```sh
-cd David-Golding-200238-DV200S1F1-ThunderStats
+cd David-Golding-200238-DV200S1F1-ThunderStats_V2.2
 
 ```
 
