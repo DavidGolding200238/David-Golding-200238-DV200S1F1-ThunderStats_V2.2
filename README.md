@@ -109,7 +109,7 @@ The application will open at [http://localhost:3000](http://localhost:3000).
 
 ![Landing Page](<Screenshots/Landing Page.png>)
 
-![Speed Chart](<Screenshots/Speed Chart.png>)
+![Speed Chart](<Screenshots/Speed chart.png>)
 
 ![Mass Chart](<Screenshots/Mass chart.png>)
 
